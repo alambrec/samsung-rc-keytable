@@ -43,3 +43,7 @@ Protocols changed to nec
 Testing systems
 ----------
 - LibreElec 9.0.2
+
+Link
+----------
+[Infrared Remotes LibreElec Documentation ](https://wiki.libreelec.tv/infrared_remotes)
